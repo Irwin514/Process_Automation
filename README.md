@@ -1,14 +1,8 @@
-This folder contains all the codes required for the compulsory aspect 
-and one optional aspect of the MECH 6631/472 project.
-The entire work, done, was carried out by members of the group:
-*UNDERGRADUATE:
-VIVEK PATEL [Student ID: 27532377]
-IRWIN LOPEZ [Student ID: 29372431]
-REMI EHOUNOU [Student ID: 40007669]
+CONCORDIA UNIVERSITY
+FACULTY OF ENGINEERING AND COMPUTER SCIENCE
 
-*MASTERS:
-NKEMDILIM OKECHUKWU UMEZUDE [Student ID: 40087834]
-
+Course Outline:
+MECH 472  Mechatronics and Automation
 --------------------------------------------------------------------------------------------------
 
 The compulsory aspects includes codes for:
